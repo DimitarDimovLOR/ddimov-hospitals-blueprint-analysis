@@ -1,0 +1,259 @@
+,AccessControl,Direction,DoorType,FingerProtection,Fire,KickPlate,Leaf,Lock,Mid-rail,Mid‐rail,PowerCloserDelay,PullOrLever,Set ref,SetDetails,SlaveLeafBolted,Swing,TypicalUses,Xray
+0,-,0,Steel,-,-,-,1,Cylinder/thumbturn,-,0,Restrictor,Lever,E1a,"1.5pr. hinges; sashlock, master-keyed security cylinder and turn, 1pr. Euro escutcheons, 1pr. lever handles on roses; 90° hold-open restrictor; 50mm dia. Door ID disc",0,Single,"External stores, Energy Centre",0
+1,-,0,Steel,-,-,-,1,Cylinder/thumbturn,-,0,Closer,Lever,E1b,"1.5pr. hinges; sashlock, master-keyed security cylinder and turn, 1pr. Euro escutcheons, 1pr. lever handles on roses; adjustable power overhead closer with backcheck; 50mm dia. Door ID disc",0,Single,Office,0
+2,-,0,Steel,-,-,-,1.5 / 2,Cylinder/thumbturn,-,0,2 Restrictors,Lever,E1c,"3pr. hinges; sashlock, master-keyed security cylinder and turn, 1pr. Euro escutcheons, 1pr. lever handles on roses; 2no. flush bolts; 2no. 90° hold-open restrictors; 50mm dia. Door ID disc",Flush,Single,"Lift motor room, external stores, Energy Centre (assumed for level B - no security layout)",0
+3,-,0,Louvred,-,-,-,1,Cylinder/thumbturn,-,0,Restrictor,Lever,E1d,"1pr. FAC adjustable hinges; lock, master-keyed security cylinder and turn, 1pr. lever handles on roses; 90° hold-open restrictor; 50mm dia. Door ID disc",0,Single,Bin Store,0
+4,-,0,Louvred,-,-,-,2,Cylinder/thumbturn,-,0,2 Restrictors,Lever,E1e,"2pr. FAC adjustable hinges; lock, master-keyed security cylinder and turn, 1pr. lever handles on roses; 2no. Anti-lift drop bolts; 2no. 90° hold-open restrictors; 50mm dia. Door ID disc",Surface,Single,"Pathology Gas Compound, Bin Store",0
+5,-,0,Steel,-,-,-,2,2no. Cylinder/ thumbturn,-,0,2 Restrictors,Lever,E1f,"5pr. hinges; 1no. sashlock, 1no. master-keyed security cylinder and turn, 1pr. Euro escutcheons, 1pr. lever handles on roses; 1no. deadlock, 1no. master-keyed security cylinder and turn, 1pr. Euro escutcheons; 450mm surface bow handle bolt (bottom); 900mm surface bow handle bolt (top); 2no. 90° hold-open restrictors (extra heavy duty); 50mm dia. Door ID disc",Surface,Single,"Builders Workshop, LV rooms (over-height leaves)",0
+6,-,0,Steel,-,-,-,1,Bathroom lock + Lock,-,0,Closer,Lever,E2,"1.5pr hinges; bathroom lock, bathroom indicator on rose, extended bathroom turn on rose, 1pr lever handles on roses; deadlock, master-keyed security single cylinder (external only), Euro escutcheon; adjustable power overhead closer with backcheck; 50mm dia. Door ID disc",0,Single,FM wc,0
+7,Maglock,Out,Steel,-,-,-,1,-,-,0,Closer,Pull,E3a,"1.5pr. Hinges; adjustable power overhead closer with backcheck; 450mm bolt through pull handle, 500 x 75mm push plate; monitored electro magnetic lock; 50mm dia. Door ID disc",0,Single,"Staff change entrance, Energy Centre entrance",0
+8,Maglock,Out,Steel,-,-,-,1,-,-,0,Delay,Pull,E3b,"1.5pr. Hinges; adjustable power overhead closer with delay action and backcheck; 450mm bolt through pull handle, 500 x 75mm push plate; monitored electro magnetic lock; 50mm dia. Door ID disc",0,Single,Decontamination,0
+9,Double Maglock,Out,Steel,-,-,-,2,-,-,0,2 Delay,Pull,E3c,"3pr. Hinges; 2no. adjustable power overhead closers with delay action and backcheck; 2no. 450mm bolt through pull handles, 2no. 500 x 75mm push plates; double monitored electro magnetic lock; 50mm dia. Door ID disc",-,Single,"Pathology access, FM out",0
+10,-,0,Steel,-,-,-,1,-,-,0,Restrictor,-,E4a,1.5pr. Hinges; single touch bar panic exit device; 90° hold-open restrictor; 50mm dia. Door ID disc,0,Single,"Pathology, Staff change",0
+11,-,0,Steel,-,FD30S,-,1,External cylinder,-,0,Closer,-,E4b,"1.5pr. Hinges; single touch bar panic exit device with external lock, single master-keyed security cylinder, Euro escutcheon; adjustable power overhead closer with backcheck; 2no. 76mm dia. Bi-lingual Fire Door Keep Shut signs; 50mm dia. Door ID disc",0,Single,"Restaurant, Office emergency exit, Plant Room",0
+12,-,0,Steel,-,-,-,1.5,External cylinder,-,0,2 Restrictors,-,E4c,"3pr. Hinges; double touch bar panic exit device with external lock, single master-keyed security cylinder, Euro escutcheon; 2no. 90° hold-open restrictors; 50mm dia. Door ID disc",-,Single,Final exit,0
+13,-,0,Steel,-,-,-,1,Cylinder inside only,-,0,Restrictor,Single lever,E5a,"1.5pr. hinges; sashlock, single master-keyed security cylinder and turn, 1no. Euro escutcheon, 1no. lever handle on rose; 90° hold-open restrictor; 50mm dia. Door ID disc  (external lever handle to release lock bolt for emergency egress)",0,Single,Stair / plant rooms with emergency egress from roof,0
+14,-,0,Steel,-,-,-,2,Cylinder inside only,-,0,2 Restrictors,Single lever,E5b,"3pr. hinges; sashlock, single master-keyed security cylinder and turn, 1no. Euro escutcheon, 1no. lever handle on rose; 2no. 90° hold-open restrictors; 2no. flush bolts; 50mm dia. Door ID disc  (external lever handle to release lock bolt for emergency egress)",Flush,Single,Roof access with emergency egress,0
+15,-,0,Aluminium,-,-,-,1,Cylinder inside only,-,0,Restrictor,Single lever,E5c,"1.5pr. hinges; sashlock for narrow stile, single master-keyed security cylinder and turn, 1no. Euro escutcheon, 1no. lever handle on rose; 90° hold-open restrictor; 50mm dia. Door ID disc  (external lever handle to release lock bolt for emergency egress)",0,Single,Roof access with emergency egress,0
+16,-,0,Aluminium,-,-,-,2,Cylinder inside only,-,0,2 Restrictors,Single lever,E5d,"3pr. hinges; sashlock, single master-keyed security cylinder and turn, 1no. Euro escutcheon, 1no. lever handle on rose; 2no. 90° hold-open restrictors; 2no. flush bolts; 50mm dia. Door ID disc  (external lever handle to release lock bolt for emergency egress)",Flush,Single,Courtyard access with emergency egress,0
+17,-,0,Steel,-,-,-,1,External cylinder,-,0,Restrictor,-,E6a,"1.5pr. hinges; push pad emergency exit mortice nightlatch, single master-keyed security cylinder, 1no. Euro cylinder pull; 90° hold-open restrictor; 50mm dia. Door ID disc",0,Single,HV Switchroom,0
+18,-,0,Steel,-,-,-,2,External cylinder,-,0,Restrictor,-,E6b,"4pr. hinges; push pad emergency exit mortice nightlatch, single master-keyed security cylinder, 1no. Euro cylinder pull; 450mm surface bow handle bolt (bottom); 900mm surface bow handle bolt (top); 2no. 90° hold-open restrictors; 50mm dia. Door ID disc",Surface,Single,HV Switchroom,0
+19,-,0,Steel,-,-,-,1,Latch,-,0,-,Single lever,E7,"2pr. extra heavy duty hinges; mortice latch, 1no. lever handle on rose (for one-sided operation); 90° hold-open restrictor; 50mm dia. Door ID disc",0,Single,Door in screen wall,0
+20,-,0,Steel,-,-,-,2,2no. Cylinder inside only,-,0,-,-,E8,"4pr. Hinges; 2no. sashlock, single master-keyed security cylinder, Euro escutcheon; 2no. flushbolts; 2no. heavy duty 90° hold-open restrictors; 50mm dia. Door ID disc",Flush,Single,MRI maintenance access,0
+0,0,0,0,0,0,1 side,1.5,0,0,0,0,Lever,1,As LSL,Flush,Single,Bedroom; 4 bed bay,0
+1,0,0,0,0,0,1 side,1.5,0,0,0,0,Lever,01*,New set - as 01 but SSS kickplates changed to PVC,Flush,Single,0,0
+2,0,0,0,FP,0,1 side,1.5,0,0,0,0,Lever,01FP,As LSL,Flush,Single,CLD Bedroom,0
+3,0,0,0,FP,0,1 side,2,0,0,0,0,Lever,01aFP,Not Required,Flush,Single,CLD Bedroom,0
+4,0,0,0,0,0,1 side,1.5,Bathroom,0,0,0,Lever,2,As LSL,Flush,Single,En-suite,0
+5,0,0,0,FP,0,1 side,1.5,Bathroom,0,0,0,Lever,02FP,As LSL,Flush,Single,CLD En-suite,0
+6,0,0,0,0,0,1 side,1.5,Bathroom,0,0,0,Lever,02a,New set - As LSL 02 but top flush bolt changed to 600mm long and with extended bolt length,Extended flush,Single,Bariatric En-suite,0
+7,0,0,0,FP,0,1 side,1.5,Bathroom,0,0,0,Lever,02aFP,New set - As LSL 02FP but top flush bolt changed to 600mm long and with extended bolt length,Extended flush,Single,CLD Bariatric En-suite,0
+8,0,0,0,0,0,1 side,1,Bathroom,0,0,Closer,Lever,3,As LSL,0,Single,WCs in public areas,0
+9,0,0,0,FP,0,1 side,1,Bathroom,0,0,Closer,Lever,03FP,As LSL,0,Single,CAU/CLD WCs in public areas,0
+10,0,0,0,0,0,1 side,1,Bathroom,0,0,Delay,Lever,03DA,New set - As LSL 03 but closer changed to delayed action type. Disabled WC sign,0,Single,Disabled WCs in public areas,0
+11,0,0,0,FP,0,1 side,1,Bathroom,0,0,Delay,Lever,03DAFP,New set - As LSL 03FP but closer changed to delayed action type. Disabled WC sign,0,Single,Disabled WCs in public areas (Childrens),0
+12,0,0,0,0,0,1 side,1,Bathroom,0,0,0,Lever,03b,As LSL,0,Single,WCs no closer,0
+13,0,0,0,FP,0,1 side,1,Bathroom,0,0,0,Lever,03bFP,As LSL,0,Single,CAU/CLD WCs,0
+14,0,0,0,0,0,1 side,1,0,0,0,0,Lever,03g,New set - as 03b with latch in place of bathroom lock; minus bathroom indicator & extended turn,0,Single,En-suite WCs in single bedroom (CCU),0
+15,0,0,0,FP,0,1 side,1,0,0,0,0,Lever,03gFP,New set - as 03bFP with latch in place of bathroom lock; minus bathroom indicator & extended turn,0,Single,En-suite WCs in single bedroom (Children's),0
+16,0,0,0,0,Fire,0,1,Bathroom,0,0,Closer,Lever,03c,New set - As LSL 03 minus kickplate plus Fire Door Keep Shut signs,0,Single,pvc-wrapped,0
+17,0,0,0,0,Fire,1 side,1,Bathroom,0,0,Delay,Lever,03dDA,New set - As 03DA plus Fire Door Keep Shut signs,0,Single,Changing Places,0
+18,0,0,0,0,0,0,1,Bathroom,0,0,0,Lever,03e,New set - As LSL 03b minus kick plate,0,Single,WCs no closer; pvc-wrapped,0
+19,0,0,0,0,Fire,1 side,1,Bathroom,0,0,Closer,Lever,03f,New set - As 03c plus kickplate,0,Single,0,0
+20,Maglock,In,0,0,Fire,1 side,1,0,0,0,Closer,Pull,4,As LSL but kickplate changed to 400mm high,0,Single,CU; Pantry; ward circulation,0
+21,Maglock,In,0,FP,0,1 side,1,0,0,0,Closer,Pull,04FP,Not required,0,Single,CU,0
+22,Maglock,In,0,0,Fire,1 side,1,0,0,0,Backcheck,Pull,04a,As LSL but kickplate changed to 400mm high,0,Single,0,0
+23,Maglock,In,0,0,0,1 side,1,Lock,0,0,Closer,Pull,04b*,New set - As revised 04 minus Fire Door Keep Shut signs,0,Single,CU/Store,0
+24,Maglock,In,0,0,0,1 side,1,Lock,0,0,Closer,Pull,04b,New set - as 04b but SSS kickplate changed to PVC,0,Single,0,0
+25,0,0,0,0,Fire,1 side,1,Lock,0,0,Closer,Pull,5,As LSL,0,Single,DU; Store,0
+26,0,0,0,0,Fire,1 side,1,Lock,0,0,Delay,Pull,05DA,As LSL,0,Single,0,0
+27,0,0,0,FP,Fire,1 side,1,Lock,0,0,Closer,Pull,05FP,Not required,0,Single,DU; Store,0
+28,0,0,0,0,0,1 side,1,Lock,0,0,Closer,Pull,05a,New set - As LSL 05 minus Fire Door Keep Shut signs,0,Single,0,0
+29,0,0,0,0,0,1 side,1,Lock,0,0,Closer,Pull,05a*,New set - As LSL 05a but pvc kick plate in place of stainless steel,0,Single,0,0
+30,0,0,0,0,0,1 side,1,Lock,0,0,Delay,Pull,05aDA,New set - As LSL 05DA minus Fire Door Keep Shut signs,0,Single,0,0
+31,0,0,0,0,0,1 side,1,Lock,0,0,Delay,Pull,05aDA*,New set - As LSL 05aDA but pvc kick plate in place of stainless steel,0,Single,0,0
+32,0,0,0,0,Fire,0,1,0,0,0,Closer,Pull,05b,"New set - As LSL 05 minus lockcase, cylinder, escutcheons, kickplate",0,Single,L5 Plant,0
+33,0,0,0,0,Fire,0,1,Lock,0,0,Delay,Pull,05bDA,New set - As LSL 05DA minus kickplate,0,Single,pvc-wrapped,0
+34,0,0,0,0,0,0,1,Lock,0,0,Closer,Pull,05c,New set - As 05a minus kickplate,0,Single,0,0
+35,0,0,0,0,0,0,1,Lock,0,0,Delay,Pull,05cDA,New set - As 05aDA minus kickplate,0,Single,pvc-wrapped,0
+36,0,0,0,0,0,0,1,Lock,0,0,Delay,Pull,05cDA+,New set - as 05cDA but closer power upgraded to 2/6,0,Single,pvc-wrapped,0
+37,0,0,0,0,0,1 side,1,0,0,0,Closer,Pull,05d,"New set - As 05a minus lockcase, cylinder, escutcheons plus M/F symbol",0,Single,0,0
+38,0,0,0,0,Fire,1 side,1,Lock,0,0,Closer,Lever,6,As LSL,0,Single,Consult/Exam; Office; Treatment; Cleaner,0
+39,0,0,0,0,Fire,0,1,Lock,0,0,Closer,Lever,06a,New set - As LSL 06 minus kickplate,0,Single,pvc-wrapped,0
+40,0,0,0,0,0,1 side,1,Lock,0,0,0,Lever,06b,As LSL,0,Single,Consult/Exam; Office; Treatment; Cleaner; Linen; DU; Store; Beverage,0
+41,0,0,0,FP,0,1 side,1,Lock,0,0,0,Lever,06bFP,As LSL,0,Single,CAU/CLD Consult/Exam; Office; Treatment; Interview,0
+42,0,0,0,0,0,0,1,Narrow Lock,0,0,0,Lever,06bGLA,Not required,0,Single,Fully-glazed aluminium framed doors in glazed screens - ADM Office,0
+43,0,0,0,0,0,0,1,Lock,0,0,0,Lever,06c,New set - As LSL 06b minus kickplate,0,Single,"pvc-wrapped/half-height pvc(INT Corridor, Office, Cleaner, Store)",0
+44,0,0,0,0,Fire,1 side,1,0,0,0,Closer,Lever,06d,"New set - As LSL 06 minus lockcase, cylinder, escutcheons, plus lathcase",0,Single,MAT bedrooms,0
+45,0,0,0,FP,Fire,1 side,1,Lock,0,0,Closer,Lever,06FP,Not required,0,Single,Consult; Exam; Offices; Treatment,0
+46,0,0,0,0,Fire,1 side,2,Lock,0,0,Closer,Pull,7,"As LSL minus 1no closer, 1no pull handle, 2no Fire Door Keep shut signs, 1no pushplate plus 2no Fire Door Keep Locked signs",Flush,Single,Plant,0
+47,0,0,0,0,Fire,1 side,2,0,0,0,Closer,Pull,07a,"New set - As LSL 07 minus lockcase, cylinder, escutcheons",Flush,Single,Plant (on escape route),0
+48,0,0,0,0,Fire,1 side,2,Lock,0,0,Closer,Pull,07b,New set - As 07 but 1 no. 200mm flushbolt changed to 600mm flushbolt,Flush,Single,Plant,0
+49,Maglock,In,0,0,Fire,1 side,1.5,0,0,0,Closer,Pull,8,As LSL,Flush,Single,0,0
+50,Maglock,In,0,0,Fire,1 side,1.5,0,0,0,Delay,Pull,08DA,Not Required,Flush,Single,0,0
+51,Maglock,In,0,0,Fire,1 side,1.5,0,0,0,Delay,Pull,08*DA,New set - as 08DA but SSS kickplates changed to PVC,Flush,Single,0,0
+52,Maglock,Out,0,FP,0,1 side,1.5,0,0,0,Closer,Pull,08FP,As LSL minus Z&L bracket,Flush,Single,0,0
+53,Maglock,Out,0,0,0,1 side,1.5,Lock,0,0,Closer,Pull,08b,"As LSL plus lockcase, cylinder, escutcheons",Flush,Single,Pharmacy,0
+54,Double maglock,Out,0,0,0,1 side,1.5,0,0,0,2 Closers,Pull,08b*,New set - as 08b but SSS kickplates changed to PVC,0,Single,0,0
+55,Maglock,Out,0,0,Fire,0,1.5/2,Digilock,0,0,0,2 Pulls,08c,"As LSL minus closer, kickplates and pushplate plus digital keypad mechanical lock; back-to-back pull handles. (Digilock on LH leaf; flushbolts and pull handles on RH leaf, all viewed from pull side)",Flush,Single,CCR,0
+56,Maglock,Out,0,0,Fire,1 side,1.5,Lock,0,0,Closer,Pull,08d,Not required,Flush,Single,0,0
+57,Maglock,Out,0,0,Fire,1 side,1.5,Lock,0,0,Delay,Pull,08dDA,Not Required,Flush,Single,0,0
+58,Maglock,In,0,0,0,1 side,1.5,Lock,0,0,Closer,Pull,08e,"New set - As revised 08FP minus finger protector plus lockcase, cylinder, escutcheons, Z&L bracket",Flush,Single,Decontamination,0
+59,Maglock,Out,0,0,Fire,1 side,1.5,0,0,0,Closer,Pull,08f,"New set - As LSL 08 minus Z&L bracket, flushbolts and sockets; plus additional closer; maglock
+changed to double maglock",Flush,Single,Leaf and half door on escape route with access control,0
+60,Maglock,Out,0,0,Fire,1 side,1.5,0,0,0,2 Delay,Pull,08fDA,New set - As LSL 08 minus Z&L bracket and closer changed to delayed action type,0,Single,0,0
+61,Maglock,In,0,0,Fire,1 side,1.5,0,0,1 side,Delay,Pull,08g,New set - As 08DA but SSS kickplates changed to PVC plus 1no 900x200 & 1no 400x200 PVC midplates,Flush,Single,Regen Kitchen,0
+62,Maglock,In,0,0,Fire,0,1.5,Lock,0,0,Delay,Pull,08h,"New set - As 08g minus lockcase, cylinder, escutcheons, midplates, kickplates",Flush,Single,Disposals (half-height pvc),0
+63,Maglock,Out,0,0,Fire,1 side,1.5,Lock,0,1 side,Delay,Pull,08jDA,"New set - As 08dDA but SSS kickplates changed to PVC plus 1no 900x200 & 1no 400x200 PVC
+midplates",Flush,Single,0,0
+64,Double maglock,In,0,0,0,1 side,1.5,0,0,0,2 Closers,Pull,08k,"New set - As LSL 08 minus Fire Door Keep Shut and Fire Door Keep Locked signs, minus flushbolts; maglock changed to double maglock; additional closer",0,Single,0,0
+65,Maglock,Out,0,0,Fire,0,2,0,0,0,0,2 Pulls,08l,"New set - As LSL 08c minus closer, bolt through pull handle, kick and push plates; plus pull handle each side of both leaves (Flushbolts on RH leaf viewed from pull side)",Flush,Single,"ECRs, CCR-UPS",0
+66,Double maglock,In,0,0,0,1 side,1.5,0,0,0,2 Delay,Pull,08m,New set - As 08k but closer changed to delayed action type,0,Single,0,0
+67,Double maglock,Out,0,0,0,1 side,1.5,0,0,0,2 Delay,Pull,08n,New set - as 08m but direction = Out,0,Single,0,0
+68,Maglock,In,0,FP,Fire,1 side,1.5,0,0,0,Closer,0,08DAFP,Not required,Flush,Single,0,0
+69,Double maglock,Out,0,0,0,1 side,1.5,Lock,0,0,2 Closers,Pull,08p,New set - as set 08b with additional closer and maglock changed to double type,Flush,Single,PHA0022.D1,0
+70,Maglock,In,0,0,0,1 side,1.5,0,0,0,Closer,Pull,08q,New set - as LSL 08 minus fire door signs,Flush,Single,"MDE3008.D1, MDE3009.D1, MDE3011.D1",0
+71,0,0,0,0,Fire,0,1,Lock,0,0,0,Cylinder,9,As LSL,0,Single,Riser,0
+72,0,0,0,0,Fire,0,2,Lock,0,0,0,Cylinder,09a,As LSL Plus door ID disc,Flush,Single,Riser; EDC,0
+73,0,0,0,0,0,0,1,Lock,0,0,0,Cylinder,09b,New set - as set 09 minus Fire Door Keep Locked sign,0,Single,Service cupboard,0
+74,0,0,0,0,0,0,1.5,Lock,0,0,0,Cylinder,09c,New set - as set 09a minus Fire Door Keep Locked signs,Flush,Single,Lobby to risers,0
+75,Double Maglock,Out,0,0,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,11,As LSL,0,Single,Cross corridor,0
+76,Double Maglock,Out,0,0,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,11*,New set - as LSL 11 but SSS kickplates changed to PVC,0,Single,Cross corridor,0
+77,Double Maglock,Out,0,0,Fire,1 side,2,0,0,0,2 Delay,2 Pulls,11DA,New set - As LSL 11* but closer changed to delayed action type,0,Single,0,0
+78,Double Maglock,In,0,0,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,11FP,Not required,0,Single,Cross corridor,0
+79,Solenoid,Double,0,FP,Fire,2 sides,2,0,0,0,Springs,0,11DAFP,Not required,0,Double,0,0
+80,Double Maglock,Out,0,FP,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,11aFP,Not required,0,Single,Cross corridor,0
+81,Solenoid,Double,0,0,Fire,2 sides,2,0,0,0,RS Springs,0,11b,Not required,0,Double,0,0
+82,Solenoid,Double,0,0,Fire,2 sides,2,0,0,0,RS Springs,0,11b*,New set - as revised set 11 but  SSS kickplates changed to PVC,0,Double,0,0
+83,Solenoid,Double,0,FP,Fire,2 sides,2,0,0,0,RS Springs,0,11bFP,As LSL but floor springs changed to reduced speed type and SSS kickplates changed to PVC,0,Double,0,0
+84,Double Maglock,Out,0,0,Fire,1 side,2,0,0,0,2 Backcheck,2 Pulls,11c,Not required,0,Single,0,0
+85,Double Maglock,In,0,0,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,11d,As LSL,0,Single,0,0
+86,Double Maglock,In,0,FP,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,11dFP,New set - as 11d plus finger protection,0,Single,0,0
+87,Double Maglock,In,0,0,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,11d*,New set - As 11d but SSS kickplates changed to PVC,0,Single,0,0
+88,Double Maglock,In,0,0,Fire,1 side,2,0,0,0,2 Delay,2 Pulls,11dDA,As LSL but kickplates changed from SSS to PVC,0,Single,0,0
+89,Double Maglock,Out,0,0,Fire,0,2,0,0,0,2 Delay,2 Pulls,11eDA,New set - As 11DA minus kickplates,0,Single,(half height pvc),0
+90,Double Maglock,Out,0,0,Fire,1 side,2,Lock,0,0,2 Delay,2 Pulls,11fDA,"New set - As 11DA plus lockcase, cylinder, escutcheons, 2no 900x200 PVC midplates",0,Single,0,0
+91,Double Maglock,In,0,0,0,0,2,0,0,0,2 Delay,2 Pulls,11gDA,"New set - As LSL 11d but closer changed to delayed action minus kickplates, Fire Door Keep shut
+signs",0,Single,(half height pvc),0
+92,Double Maglock,In,0,0,0,1 side,2,0,0,1 side,2 Delay,2 Pulls,11hDA,"New set - As LSL 11d* but closer changed to delayed action plus PVC midplates minus Fire Door
+Keep Shut signs",0,Single,0,0
+93,Solenoid,Double,0,0,Fire,0,2,0,0,0,RS Springs,0,11j,New set - As revised 11b minus kickplates,0,Double,(half height pvc or pvc-wrapped),0
+94,Solenoid,Double,0,0,Fire,2 sides,2,0,0,2 sides,RS Springs,0,11k,New set - As revised 11b plus 4no 900x200 PVC midplates,0,Double,0,0
+95,Solenoid,Double,0,0,0,2 sides,2,0,0,0,Springs,0,11l,New set - As revised 11b but standard speed floor springs minus Fire Door Keep Shut signs,0,Double,0,0
+96,Double Maglock,In,0,0,Fire,0,2,0,0,0,2 Delay,2 Pulls,11m,New set - As LSL 11dDA minus kickplates,0,Single,(half height pvc),0
+97,Solenoid,Secure both sides,0,0,Fire,1 side,2,0,0,1 side,2 Delay,2 Pulls,11n,Not required,0,Single,0,0
+98,Double Maglock,In,0,0,Fire,1 side,2,0,0,1 side,2 Delay,2 Pulls,11p,New set - As LSL 11dDA plus 2no 900x200 PVC midplates,0,Single,0,0
+99,Double Maglock,Out,0,0,0,1 side,2,0,0,1 side,2 Delay,2 Pulls,11q,New set - As 11DA minus Fire Door Keep Shut signs; SSS kick and midplates changed to PVC,0,Single,0,0
+100,Solenoid,Double,0,0,0,2 sides,2,0,0,2 sides,RS Springs,0,11r,New set - As 11k minus Fire Door Keep Shut signs,0,Double,0,0
+101,Solenoid,Secure both sides,0,0,Fire,0,2,0,0,0,2 Delay,2 Pulls,11s,Not Required,0,Single,(half-height pvc),0
+102,Double Maglock,Out,0,0,Fire,1 side,2,0,0,1 side,2 Delay,2 Pulls,11t,New set - as 11DA plus PVC mid-plates,0,Single,0,0
+103,Solenoid,Secure both sides,0,0,Fire,1 side,2,0,0,0,2 Delay,2 Pulls,11u,Not required,0,Single,0,0
+104,Double Maglock,Out,0,FP,Fire,1 side,2,0,0,0,2 Delay,2 Pulls,11u*FP,Set details as set 11DA but finger protection added,0,Single,0,0
+105,Solenoid,Double,0,0,Fire,2 sides,2,0,0,0,HO Springs,0,11v,New set - as set 11b but hold open springs in place of reduced speed springs,0,Double,0,0
+106,0,0,0,0,Fire,1 side,2,0,0,0,HO closers,2 Pulls,12,As LSL,0,Single,Cross corridor,0
+107,0,0,0,0,Fire,1 side,2,0,0,0,HO closers,2 Pulls,12*,New set - as 12 but SSS kickplates changed to PVC,0,Single,Cross corridor,0
+108,0,0,0,0,Fire,1 side,2,0,0,0,HO closers,2 Pulls,12*FP,New set - as 12* plus finger protection,0,Single,0,0
+109,0,0,0,FP,Fire,1 side,2,0,0,0,HO closers,2 Pulls,12FP,As LSL but SSS kick changed to PVC,0,Single,0,0
+110,0,0,0,FP,Fire,1 side,2,Lock,0,1 side,HO springs,0,12aFP,Not required,Flush,Double,Cross corridor,0
+111,0,0,0,0,Fire,2 sides,2,0,0,2 sides,HO springs,0,12b,As LSL but SSS kick and mid plates changed to PVC,0,Double,Cross corridor,0
+112,0,0,0,FP,Fire,2 sides,2,0,0,0,HO springs,0,12bFP,As LSL minus midplates and SSS kickplates changed to PVC,0,Double,0,0
+113,0,0,0,0,Fire,1 side,2,0,0,1 side,HO closers,2 Pulls,12c,New set - As LSL 12 but SSS kickplates changed to PVC plus 2no 900x200 PVC midplates,0,Single,Cross corridor,0
+114,0,0,0,0,Fire,0,2,0,0,0,HO closers,2 Pulls,12d,New set - As LSL 12 minus kickplates,0,Single,Cross corridor (half height pvc),0
+115,0,0,0,0,Fire,2 sides,2,0,0,0,HO springs,0,12e,New set - As LSL 12b minus midplates,0,Double,Cross corridor,0
+116,0,0,0,0,Fire,2 sides,2,0,0,0,HO springs,0,12e*,New set - as 12e but SSS kickplates changed to PVC,0,Double,Cross corridor,0
+117,0,0,0,0,Fire,0,2,0,0,0,HO springs,0,12f,"New set - As LSL 12b minus kickplates , midplates",0,Double,Cross corridor (half height pvc),0
+118,0,0,0,0,0,2 sides,2,0,0,0,HO springs,0,12g,New set - as set 12e* minus connection to fire alarm and reference to fire door in signs,0,Double,"Cross corridor, between wards with no FR",0
+119,0,0,0,0,0,0,2,Lock,0,0,2 Delay,2 Pulls,13a,"As LSL minus kickplates, Fire Door Keep Shut signs",Flush,Single,INT (pvc-wrapped),0
+120,0,0,0,0,0,0,2,Lock,0,0,2 Delay,2 Pulls,13a+,New set - as 13a but closer power upgraded to 2/6,Flush,Single,INT (pvc-wrapped),0
+121,0,0,0,0,Fire,0,2,Lock,0,0,2 Delay,2 Pulls,13b,"As LSL minus kickplates plus door selector, 4no Fire Door Keep shut signs",Surface,Single,INT (pvc-wrapped),X-ray
+122,0,0,0,0,0,0,2,Lock,0,0,2 Delay,2 Pulls,13c,New set - As revised 13b minus Fire Door Keep Shut signs,Surface,Single,INT (pvc-wrapped),X-ray
+123,0,0,0,0,0,0,2,Lock,0,0,2 Delay,2 Pulls,13c+,New set - as 13c but closer power upgraded to 2/6,Surface,Single,INT (pvc-wrapped),X-ray
+124,0,0,0,0,0,1 side,1,0,0,0,0,Lever,16,As LSL,0,Single,Quiet,0
+125,0,0,0,0,0,0,1,0,0,0,0,Lever,16GLA,Not Required,0,Single,Fully-glazed aluminium framed doors in glazed screens,0
+126,0,0,0,0,0,0,1,0,0,0,0,Lever,16a,New set - As LSL 16 minus kickplate,0,Single,INT (pvc-wrapped),0
+127,0,0,0,0,0,0,2,0,0,0,0,Lever,16b,"New set - As 16 minus kickplate plus 2no flush bolts, easyclean floor socket",Flush,Single,INT (pvc-wrapped),0
+128,0,0,0,0,Fire,1 side,1.5,Lock,0,0,Closer,Pull,17,As LSL,Flush,Single,0,0
+129,0,0,0,0,Fire,1 side,1.5,0,0,0,2 Closers,2 Pulls,17a,"New set - As LSL 17 minus lockcase, cylinder, escutcheons, flushbolts and sockets; plus additional closer, pull handle and push plate; 2no. Fire Door Keep Locked signs replaced with 2no. Fire Door
+Keep shut signs",0,Single,Leaf and half door on escape route,0
+130,0,0,0,FP,Fire,1 side,1.5,0,0,0,2 Closers,Pull,17aFP,New set - As revised 17a plus finger protector,0,Single,Leaf and half door on escape route with FP,0
+131,0,0,0,0,0,1 side,1.5,Lock,0,0,0,Lever,17b,As LSL,Flush,Single,0,0
+132,0,0,0,0,0,1 side,1.5,Lock,0,0,0,Lever,17b*,New set - as 17b but SSS kickplates changed to PVC,Flush,Single,0,0
+133,0,0,0,FP,0,1 side,1.5,Lock,0,0,0,Lever,17bFP,As LSL,Flush,Single,0,0
+134,0,0,0,0,Fire,0,1.5,Lock,0,0,Delay,Pull,17c,As LSL minus kickplates,Flush,Single,Disposal Hold (half-height pvc),0
+135,0,0,0,0,Fire,1 side,1.5,Lock,0,1 side,Delay,Pull,17e,"New set - As LSL 17c but SSS kickplates changed to PVC plus 1no 900x200 PVC midplate, 400x200
+PVC midplate",Flush,Single,0,0
+136,0,0,0,0,0,1 side,1.5,0,0,1 side,0,Lever,17f,"New set - As LSL 01 plus 1no 900x200 SSS midplate, 1no 400x200 SSS midplate",Flush,Single,Assessment trolley,0
+137,0,0,0,0,0,0,1.5,Lock,0,0,0,Lever,17g,New set - As LSL 17b minus kickplates,Flush,Single,(pvc-wrapped),0
+138,0,0,0,0,Fire,1 side,1.5,0,0,0,HO closer,Pull,17h,Not Required,Flush,Single,0,0
+139,0,0,0,0,Fire,1 side,1.5,Lock,0,0,2 Delay,Pull,17j,New set - As LSL 17c but SSS kickplates changed to PVC plus additional delayed action closer,Flush,Single,Restaurant kitchen (escape),0
+140,0,0,0,0,Fire,1 side,1.5,0,0,0,Delay,Pull,17k,"New set - as LSL 17c minus lockcase, cylinder and escutcheons",Flush,Single,Cleaners lobby off street; NICU cots,0
+141,0,0,0,0,0,1 side,1.5,0,0,0,Delay,Pull,18,"As LSL minus Fire door Keep Shut signs, Fire Door Keep Locked signs",Surface,Single,RAD,X-ray
+142,0,0,0,0,Fire,1 side,1,Lock,0,0,Delay,Pull,19,Not required,0,Single,0,X-ray
+143,0,0,0,FP,Fire,1 side,1,Lock,0,0,Delay,Pull,19FP,Not required,0,Single,0,X-ray
+144,0,0,0,0,0,1 side,1,Lock,0,0,Delay,Pull,19a,New set - As LSL 19 minus Fire Door Keep shut signs,0,Single,0,X-ray
+145,0,0,0,0,Fire,0,1,Lock,0,0,Delay,Pull,19b,"New set - As LSL 19FP minus kickplate, finger protector",0,Single,(pvc-wrapped),X-ray
+146,0,0,0,0,0,0,1,Lock,0,0,Delay,Pull,19c,New set - As 19b minus Fire Door Keep Shut signs,0,Single,(pvc-wrapped),X-ray
+147,0,0,0,0,0,0,1,Lock,0,0,Delay,Pull,19c+,New set - as 19c but closer power upgraded to 2/6,0,Single,(pvc-wrapped),X-ray
+148,0,0,0,0,0,0,2,Lock,0,0,RS Springs,0,20a,As LSL minus kickplates,Flush,Double,(pvc-wrapped),0
+149,0,0,0,0,0,1 side,2,0,0,0,2 Closers,2 Pulls,21,Not Required,0,Single,0,0
+150,0,0,0,0,0,1 side,2,0,0,0,2 Delay,2 Pulls,21DA,New set - As LSL 21 but closer changed to delayed action type,0,Single,0,0
+151,0,0,0,0,0,1 side,2,0,0,0,2 Delay,2 Pulls,21*DA,New set - as 21DA but SSS kickplates changed to PVC,0,Single,0,0
+152,0,0,0,0,0,0,2,0,0,0,2 Delay,4 Pulls,21DAGLA,Not required,0,Single,Glazed doors in glazed screens in Critical Care,0
+153,0,0,0,FP,0,1 side,2,0,0,0,2 Closers,2 Pulls,21FP,As LSL,0,Single,0,0
+154,0,0,0,0,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,21a,As LSL,0,Single,0,0
+155,0,0,0,0,Fire,0,2,0,0,0,2 Closers,4 Pulls,21aGLA,Not Required,0,Single,0,0
+156,0,0,0,FP,Fire,1 side,2,0,0,0,2 Closers,2 Pulls,21aFP,Not required,0,Single,0,0
+157,0,0,0,0,Fire,1 side,2,0,0,0,2 Delay,2 Pulls,21aDA,As LSL,0,Single,0,0
+158,0,0,0,0,0,1 side,2,0,0,1 side,2 Delay,2 Pulls,21bDA,As LSL but SSS kickplates changed to PVC plus 900x200 PVC midplates,0,Single,0,0
+159,0,0,0,0,0,1 side,2,0,0,1 side,2 Closers,2 Pulls,21b,Not required,0,Single,0,0
+160,0,0,0,FP,0,1 side,2,0,0,0,2 Closers,2 Pulls,21bFP,Not required,0,Single,0,0
+161,0,0,0,FP,0,1 side,2,0,0,0,2 Delay,2 Pulls,21bFPDA,Not required,0,Single,0,0
+162,0,0,0,0,Fire,1 side,2,Lock,0,0,2 Closers,2 Pulls,21c,Not required,0,Single,0,0
+163,0,0,0,0,Fire,1 side,2,Lock,0,0,2 Delay,2 Pulls,21cDA,New set - As LSL 21c but closer changed to delayed action type and SSS kickplates changed to PVC,0,Single,0,0
+164,0,0,0,0,Fire,0,2,0,0,0,2 Delay,2 Pulls,21dDA,New set - As LSL 21aDA minus kickplates,0,Single,(pvc-wrapped),0
+165,0,0,0,0,Fire,0,2,Lock,0,0,2 Delay,2 Pulls,21eDA,New set - As 21c but closer changed to delayed action type minus kickplates,0,Single,(pvc-wrapped),0
+166,0,0,0,0,0,0,2,0,0,0,2 Delay,2 Pulls,21fDA,New set - As 21DA minus kickplates,0,Single,(pvc-wrapped or half-height pvc),0
+167,0,0,0,0,Fire,1 side,2,0,0,1 side,2 Delay,2 Pulls,21gDA,New set - As LSL 21aDA but SSS kickplates changed to PVC plus 2no 900x200 PVC midplates,0,Single,0,0
+168,0,0,0,0,Fire,2 sides,2,0,0,0,RS Springs,0,22,As LSL but floor springs changed to reduced speed type,0,Double,0,0
+169,0,0,0,FP,Fire,2 sides,2,0,0,0,RS Springs,0,22FP,As LSL but floor springs changed to reduced speed type & pvc kick plates in place of stainless steel,0,Double,0,0
+170,0,0,0,0,0,2 sides,2,0,0,2 sides,RS Springs,0,22a,Not required,0,Double,0,0
+171,0,0,0,FP,0,2 sides,2,0,0,0,RS Springs,0,22aFP,Not required,0,Double,0,0
+172,0,0,0,0,0,2 sides,2,Lock,0,0,RS Springs,0,22b,As LSL but floor springs changed to reduced speed type,Flush,Double,0,0
+173,0,0,0,0,0,2 sides,2,Lock,0,0,RS Springs,0,22b*,New set - as 22b but SSS kickplates changed to PVC,Flush,Double,0,0
+174,0,0,0,FP,0,2 sides,2,Lock,0,0,RS Springs,0,22bFPDA,Not required,Flush,Double,0,0
+175,0,0,0,0,Fire,0,2,0,0,0,RS Springs,0,22c,New set - As revised 22 minus kickplates,0,Double,(pvc-wrapped),0
+176,0,0,0,0,Fire,2 sides,2,0,0,2 sides,RS Springs,0,22d,New set - As revised 22 but SSS kickplates changed to PVC plus 4no 900x200 PVC midplates,0,Double,0,0
+177,0,0,0,0,0,0,2,0,0,0,RS Springs,0,22e,New set - As 22c minus Fire Door Keep Shut signs,0,Double,0,0
+178,2 Solenoids,0,0,0,Fire,1 side,2,0,0,0,Power,2 Pulls,24a,As LSL,0,Single,0,0
+179,2 Solenoids,0,0,0,Fire,1 side,2,0,0,1 side,Power,2 Pulls,24b,New set - As LSL 24a but SSS kickplates changed to PVC plus 2no 900x200 PVC midplates,0,Single,0,0
+180,2 Solenoids,0,0,FP,Fire,0,2,0,0,0,Power,2 Pulls,24c,"New set - As LSL 24a minus kickplates, plus finger protection",0,Single,(half height pvc),0
+181,0,0,0,0,0,1 side,2,Roller catch+Lock,0,0,0,2 Pulls,26a,Single cylinder replaced with cylinder & turn,Surface,Single,0,X-ray
+182,0,0,0,0,Fire,1 side,2,Lock,0,0,2 Delay,2 Pulls,26b,As LSL,Surface,Single,0,X-ray
+183,Solenoid,Double,0,0,0,2 sides,1,0,0,0,Spring,0,28,Not required,0,Double,0,0
+184,0,0,0,0,0,2 sides,1.5,0,0,0,2 Closers,2 Pulls,29,Not required,Flush,Opposing,0,0
+185,0,0,0,0,0,2 sides,1.5,0,0,0,2 Delay,2 Pulls,29DA,As LSL,Flush,Opposing,0,0
+186,0,0,0,FP,0,2 sides,1.5,0,0,0,2 Delay,2 Pulls,29DAFP,As LSL. 29DA plus finger protection,Flush,Opposing,0,0
+187,0,0,0,0,Fire,2 sides,1.5,0,0,0,2 Closers,2 Pulls,29a,Not required,Flush,Opposing,0,0
+188,0,0,0,0,Fire,2 sides,1.5,0,0,0,2 Delay,2 Pulls,29aDA,As LSL,Flush,Opposing,0,0
+189,0,0,0,FP,Fire,2 sides,1.5,0,0,0,2 Delay,2 Pulls,29aDAFP,New set - As LSL 29aDA plus finger protectors,Flush,Opposing,0,0
+190,0,0,0,FP,Fire,2 sides,1.5,0,0,0,2 Closers,2 Pulls,29aFP,Not required,Flush,Opposing,0,0
+191,0,0,0,0,0,2 sides,2,0,0,0,2 Delay,2 Pulls,29bDA,New set - As LSL 29DA but 900mm wide kickplate on both leaves,Flush,Opposing,0,0
+192,0,0,0,0,0,1 side,1,Bathroom,0,0,0,Lever,30a,As LSL,0,Emergency release,WCs with emergency release,0
+193,0,0,0,0,Fire,1 side,2,0,0,0,HO 180°,2 Pulls,31,AS LSL,0,Single 180°,Lift lobbies,0
+194,Double Maglock,0,0,0,Fire,0,2,0,0,0,2 Delay,2 Pulls,31a,New set - As LSL 31 minus HO closers & kickplates; plus delay closers & double maglock,0,Single 180°,Bed lift lobby; 180° hinges; half height protection,0
+195,0,0,0,FP,Fire,1 side,2,0,0,0,HO 180°,2 Pulls,31FP,Not required,0,Single,Lift lobby,0
+196,0,0,0,0,Fire,1 side,1,Lock,0,0,Delay,Pull,32,Not required,0,Single,0,X-ray
+197,Maglock,In,0,0,0,0,1,Lock,0,0,Closer,Pull,33,"As LSL plus lockcase, cylinder, escutcheons, minus kickplate",0,Single,(pvc-wrapped),0
+198,Maglock,In,0,FP,0,1 side,1,Lock,0,0,Closer,Pull,33FP,Not Required,0,Single,0,0
+199,Maglock,In,0,0,Fire,1 side,1,Lock,0,0,Closer,Pull,33a,As LSL,0,Single,0,0
+200,Maglock,In,0,0,Fire,1 side,1,Lock,0,0,Closer,Pull,33a*,New set - as 33a but SSS kickplates changed to PVC,0,Single,0,0
+201,Maglock,In,0,FP,Fire,1 side,1,Lock,0,0,Closer,Pull,33aFP,As LSL. 33a plus finger protection,0,Single,0,0
+202,Maglock,In,0,0,Fire,1 side,1,0,0,0,Closer,Pull,33b,Not required,0,Single,0,0
+203,Maglock,Out,0,FP,Fire,1 side,1,0,0,0,Closer,Pull,33bFP,Not required,0,Single,0,0
+204,Maglock,In,0,0,0,1 side,1,Lock,0,0,Closer,Pull,33c,As LSL,0,Single,0,0
+205,Maglock,Out,0,FP,0,1 side,1,Lock,0,0,Closer,Pull,33cFP,New set - As 33c plus finger protection,0,Single,0,0
+206,Maglock,Out,0,0,0,1 side,1,Lock,0,0,Backcheck,Pull,33d,As LSL,0,Single,0,0
+207,Maglock,Out,0,0,Fire,1 side,1,0,0,0,Closer,Pull,33e,As LSL,0,Single,0,0
+208,Maglock,Out,0,0,0,1 side,1,Lock,0,0,Closer,Pull,33f,New set - As LSL 33d minus backcheck function,0,Single,0,0
+209,Maglock,Out,0,0,Fire,1 side,1,Lock,0,0,Closer,Pull,33g,"New set - As LSL 33e plus lock, cylinder, escutcheons",0,Single,0,0
+210,Maglock,Out,0,0,0,1 side,1,0,0,0,Closer,Pull,33h,New set - As LSL 33e but SSS kickplate changed to PVC minus Fire Door Keep Shut signs,0,Single,0,0
+211,0,0,0,0,0,2 sides,1,Lock,0,0,Spring,0,35,Not required,0,Double,Plant,0
+212,0,0,0,0,Fire,0,2,0,0,0,Delay,2 Pulls,40,Not required,0,Single,(half height pvc),0
+213,0,0,0,0,Fire,1 side,2,0,0,0,Delay,2 Pulls,41,Not required,0,Single,0,0
+214,0,0,0,0,0,1 side,2,Lock,0,0,0,Pull,42,"New set - Hinges, 1no bolt-through pull handle, 2no 900x400 SSS kickplates, 50 ida ID disc, 2no floor stops, 1no 500x75 SSS pushplate, lockcase, cylinder, escutcheons, 2no fliushbolts, floor socket, 2no
+floor stops.",Flush,Single,Store; Linen,0
+215,0,0,0,0,0,0,2,Lock,0,0,0,Pull,42a,New set - As 42a minus kickplates,Flush,Single,(pvc-wrapped) Store; Linen,0
+216,0,0,0,0,Fire,1 side,1,0,0,0,Anti-ligature closure,A-L lever,43,"New set - Anti-ligature hinges, latch to suit, anti-ligature angled lever set, 1no 900x400 SSS kickplate,
+1no floor stop, 1no ID disc, 2no Fire door Keep Shut signs. Add anti ligature closure",0,Single,Anti-ligature (A-L) requirement inc hinges,0
+217,0,0,0,0,0,1 side,1,0,0,0,0,A-L lever,43a,"New set - As 43 minus Fire Door Keep shut signs, floor stop",0,Single,Anti-ligature (A-L) requirement inc hinges,0
+218,Maglock,0,0,0,0,0,1,Lock,0,0,Delay,Pull,44,New set - As 19c plus maglock,0,Single,(pvc-wrapped)  For interlinked doors to shared preps,X-ray
+219,0,0,0,0,Fire,0,1.5,Lock,0,0,0,Cylinder,45,"New set - deadlock case, double cylinder, 2no cylinder pulls, 2no flushbolts, dust excluding socket, 4no
+bi-lingual Fire Door Keep Locks signs, 2no floor stops, ID dic",Flush,Single,MDE4005.D1,0
+220,0,0,0,0,0,0,1,Lock,0,0,"90° hold open
+restrictor",Cylinder,46,"New set - deadlock case, cylinder & thumbturn, 2no cylinder pulls, 90° hold open restrictor, Floor stop,
+ID disc",0,Single,Level 4 Stairs 01 and 03,0
+221,Electro‐mechanical,In,0,0,0,1 side,1,Lock,0,0,Closer,Lever,47,"New set as part of certified SR3 doorset - 6no hinges c/w 9no heavy duty steel dog bolts, specialist single point locking system with electromechanical locking, lever handle, emergency escape breakdome, closer, 400mm high SSS kickplate, floor stop, ID disc (swipe to enter + interlink to prevent
+opening when Cat3 Lab door is open)",0,Single,Cat3 Lab Lobby,0
+222,0,0,0,0,0,1 side,1,Panic Bar,0,0,Closer,0,48,"New set - 1.5pr hinges, 1no. overhead closer, 1no. panic bar, 1no. kickplate",0,Single,Escape from CAU HV rooms,0
+223,0,0,0,0,0,1 side,2,Lock,0,0,0,Cylinder,49,"New set - Head track/sliding door gear, pivot set, 3no hinges,  2no pulls, hook lock, cylinder/turn,
+flushbolt, floor socket, 2no. 450 x 400 SSS kickplates, 50 dia ID disc",Flush,Bi‐fold,Radiology RAD1021.D2,0

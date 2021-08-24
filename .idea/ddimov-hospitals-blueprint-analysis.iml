@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$USER_HOME$/Documents/HospitalsBlueprintLocal" />
+    <content url="file://$USER_HOME$/Documents/HospitalsBlueprintLocal">
+      <sourceFolder url="file://$USER_HOME$/Documents/HospitalsBlueprintLocal" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.8 (hospitals-blueprint)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

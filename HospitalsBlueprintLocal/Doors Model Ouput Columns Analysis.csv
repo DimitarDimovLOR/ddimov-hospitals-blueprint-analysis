@@ -1,0 +1,192 @@
+,ColumnName,Completeness
+0,AUniqueID,1.0
+1,Access Control,1.0
+2,Accessories & Sundry Items,1.0
+3,Acoustic Designation,1.0
+4,Acoustic Rating,1.0
+5,Appear In Schedule,1.0
+6,Assembly Code,1.0
+7,Assembly Description,1.0
+8,AssetIdentifier,1.0
+9,Blind Type,1.0
+10,Bottom Profile Height,1.0
+11,Bottom Profile Option 01,1.0
+12,Bottom Profile Option 02,1.0
+13,Bottom Profile Option 03,1.0
+14,Bottom Profile Option 04,1.0
+15,Brass Polished Finish,1.0
+16,Brass Satin Finish,1.0
+17,Clear Anodized,1.0
+18,Closed,1.0
+19,Colour,1.0
+20,Comments,1.0
+21,Constituents,1.0
+22,Construction Type,1.0
+23,DDA Compliant,1.0
+24,DOOR_Acoustic Rating,1.0
+25,DOOR_Break Glass - Green,1.0
+26,DOOR_Break Glass - Red,1.0
+27,DOOR_Call Button,1.0
+28,DOOR_Card Entry,1.0
+29,DOOR_Colour,1.0
+30,DOOR_DDA Closer (20Kn),1.0
+31,DOOR_Detail type,1.0
+32,DOOR_Door Closer,1.0
+33,DOOR_Door Contacts,1.0
+34,DOOR_DoubleSwing,1.0
+35,DOOR_Exit Button,1.0
+36,DOOR_Finger Protection,1.0
+37,DOOR_Finishes,1.0
+38,DOOR_Gas Suppression,1.0
+39,DOOR_GlazingThickness,1.0
+40,DOOR_KickPlate,1.0
+41,DOOR_KickPlateHeight,1.0
+42,DOOR_Lock & Thumbturn,1.0
+43,DOOR_Louvred,1.0
+44,DOOR_Material Frame,1.0
+45,DOOR_Material Panel,1.0
+46,DOOR_MaterialDoor,1.0
+47,DOOR_MaterialFrame,1.0
+48,DOOR_PanelHeight,1.0
+49,DOOR_Panic Bar,1.0
+50,DOOR_Power,1.0
+51,DOOR_Privacy VP,1.0
+52,DOOR_Protection,1.0
+53,DOOR_Radiation Protection,1.0
+54,DOOR_Safety Barrier,1.0
+55,DOOR_Secure by Design,1.0
+56,DOOR_Signage,1.0
+57,DOOR_Type,1.0
+58,DOOR_Ventilation,1.0
+59,DOOR_Video Entry,1.0
+60,DOOR_Vision Panel,1.0
+61,DOOR_VisionPanelBottom_1,1.0
+62,DOOR_VisionPanelBottom_2,1.0
+63,DOOR_VisionPanelOffset,1.0
+64,DOOR_VisionPanelType,1.0
+65,DOOR_VisionPanelWidth,1.0
+66,DOOR_Wall Thickness,1.0
+67,Dark Bronze Anodized,1.0
+68,Description,1.0
+69,Disclaimer,1.0
+70,Door Finish,1.0
+71,Door Opening,1.0
+72,Door Panel Height,1.0
+73,Door Panel Thickness,1.0
+74,Door Panel Width,1.0
+75,Door Thickness,1.0
+76,Door_VisionPanelHeight_1,1.0
+77,Door_VisionPanelHeight_2,1.0
+78,Durability Rating,1.0
+79,EXT_DOOR_Access_Control,1.0
+80,EXT_DOOR_Closer,1.0
+81,EXT_DOOR_Drawing_Reference,1.0
+82,EXT_DOOR_Location,1.0
+83,EXT_DOOR_Minimum_Clear_Width,1.0
+84,EXT_DOOR_Operation/Security,1.0
+85,EXT_DOOR_Type,1.0
+86,EXT_DOOR_Type_Description,1.0
+87,Family,1.0
+88,Family and Type,1.0
+89,Features,1.0
+90,Finish,1.0
+91,Fire Designation,1.0
+92,Fire Rating,1.0
+93,Frame Depth,1.0
+94,Frame Head Depth,1.0
+95,Frame Material,1.0
+96,Frame Thickness,1.0
+97,FrameDepth,1.0
+98,FrameWidth,1.0
+99,Gap,1.0
+100,Glass,1.0
+101,Glass Thickness,1.0
+102,Glass Type,1.0
+103,Grade,1.0
+104,Has 14 x 14 Window,1.0
+105,Has 14 x 24 Window,1.0
+106,Has Backup Casings,1.0
+107,Has Power Operator,1.0
+108,Has Wall Guide,1.0
+109,Head Height,1.0
+110,Heat Transfer Coefficient (U),1.0
+111,Height,1.0
+112,Horizontal Sash,1.0
+113,Host Partition Thickness,1.0
+114,Hydraulic Encloser,1.0
+115,IfcGUID,1.0
+116,Inset,1.0
+117,InstallationDate,1.0
+118,Ironmongery Set,1.0
+119,Keynote,1.0
+120,Leaf Bottom Profile Height,1.0
+121,Leaf Height,1.0
+122,Leaf Width,1.0
+123,Level,1.0
+124,Main Panel Width,1.0
+125,Manufacturer,1.0
+126,Mark,1.0
+127,Material,1.0
+128,Mid Leaf Position,1.0
+129,Mid Leaf Position If Opened,1.0
+130,Model,1.0
+131,NBSDescription,1.0
+132,NBSNote,1.0
+133,NBSReference,1.0
+134,NBSTypeID,1.0
+135,NominalHeight,1.0
+136,NominalLength,1.0
+137,NominalWidth,1.0
+138,O/A Frame Width,1.0
+139,OmniClass Number,1.0
+140,OmniClass Title,1.0
+141,Opened,1.0
+142,Opening Distance,1.0
+143,Operation,1.0
+144,Panel Glazing Material,1.0
+145,Panel Height,1.0
+146,Panel Width,1.0
+147,Phase Created,1.0
+148,Phase Demolished,1.0
+149,Product data url,1.0
+150,ProductionYear,1.0
+151,Rail Bottom,1.0
+152,Rail Head,1.0
+153,ReplacementCost,1.0
+154,Required Effective Clear Width,1.0
+155,RevisedByType_ARUtils,1.0
+156,RevisedType_ARUtils,1.0
+157,Right Hinge,1.0
+158,Rough Height,1.0
+159,Rough Width,1.0
+160,Rubber,1.0
+161,Secondary Panel Width,1.0
+162,ServiceLifeDuration,1.0
+163,Shape,1.0
+164,Sill Height,1.0
+165,Size,1.0
+166,Solar Heat Gain Coefficient,1.0
+167,Spec Ref,1.0
+168,Specification Reference,1.0
+169,Stainless Steel Polished Finish,1.0
+170,Stainless Steel Satin Finish,1.0
+171,Stile Left,1.0
+172,Stile Right,1.0
+173,TagNumber,1.0
+174,Thermal Resistance (R),1.0
+175,Thickness,1.0
+176,Thickness_2,1.0
+177,Top Profile Height,1.0
+178,Transom Height,1.0
+179,Type,1.0
+180,Type Comments,1.0
+181,Type Mark,1.0
+182,URL,1.0
+183,Vision Panel,1.0
+184,Visual Light Transmittance,1.0
+185,WarrantyDescription,1.0
+186,WarrantyDurationLabour,1.0
+187,WarrantyDurationParts,1.0
+188,WarrantyGuarantorLabour,1.0
+189,WarrantyGuarantorParts,1.0
+190,Width,1.0
